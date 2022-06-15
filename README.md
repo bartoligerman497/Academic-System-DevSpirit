@@ -4,6 +4,8 @@
 
 [Toggl Track ISI DevSpirit.pdf](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/files/8912260/Toggl.Track.ISI.DevSpirit.pdf)
 
+![image](https://user-images.githubusercontent.com/53313625/173906072-14d47f45-7c0b-44d2-89f7-5fc32483ad5f.png)
+
 ![image](https://user-images.githubusercontent.com/53313625/173903389-22f1924f-a220-4aa4-9189-1bd6cff38209.png)
 
 ![image](https://user-images.githubusercontent.com/53313625/173904194-0a67fb62-66cf-4980-a32e-145ce961b7a1.png)
