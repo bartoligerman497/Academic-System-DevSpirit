@@ -13,3 +13,6 @@
 ![image](https://user-images.githubusercontent.com/53313625/173904354-1acd5745-f332-4ed6-b5e1-94f0c7ca2e37.png)
 
 ![image](https://user-images.githubusercontent.com/53313625/173904786-8abc880a-7055-4ee0-84ee-f9fd7c160ff9.png)
+
+Mis commits están en el repositorio de la Organización DevSpirit.
+El código queda reservado por © 2022 - SistemaSanIgnacio - DevSpirit.
