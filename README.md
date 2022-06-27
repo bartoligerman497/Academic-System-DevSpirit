@@ -16,6 +16,7 @@
 
 
 Mis commits están en el repositorio de la Organización DevSpirit.
+
 El código queda reservado por © 2022 - SistemaSanIgnacio - DevSpirit.
 
 video
