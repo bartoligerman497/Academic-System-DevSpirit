@@ -1,5 +1,17 @@
 # SistemaAcademico-DevSpirit
 
+## Indice
+
+- [Toggl Track](#toggl-track)
+- [Imagenes](#imagenes)
+
+## Toggl Track 
+
+- [Toggl Track Detailed](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/blob/main/Toggl_Track_detailed_report_2022-01-01_2022-12-31.pdf) - Toggl_Track_detailed_report_2022-01-01_2022-12-31.pdf 
+- [Toggl Track Summary](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/blob/main/Toggl_Track_summary_report_2022-01-01_2022-12-31.pdf) - Toggl_Track_summary_report_2022-01-01_2022-12-31.pdf
+
+## Imagenes
+
 ![image](https://user-images.githubusercontent.com/53313625/173902521-1233d26c-ab3a-4445-bfaf-9e53bf2b79de.png)
 
 [Toggl Track ISI DevSpirit.pdf](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/files/8912260/Toggl.Track.ISI.DevSpirit.pdf)
