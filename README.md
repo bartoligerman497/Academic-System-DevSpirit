@@ -1,4 +1,4 @@
-# SistemaAcademico-DevSpirit
+# Sistema Academico DevSpirit
 
 ## Indice
 
