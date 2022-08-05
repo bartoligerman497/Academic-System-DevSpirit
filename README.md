@@ -3,13 +3,25 @@
 ## Indice
 
 - [Proyecto](#proyecto)
-- [Toggl Track](#toggl-track)
 - [Imagenes](#imagenes)
+- [Toggl Track](#toggl-track)
 - [Integrantes](#integrantes)
 
 ## Proyecto 
 
 ![image](https://user-images.githubusercontent.com/53313625/173902521-1233d26c-ab3a-4445-bfaf-9e53bf2b79de.png)
+
+## Imagenes
+
+<!---
+[Toggl Track ISI DevSpirit.pdf](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/files/8912260/Toggl.Track.ISI.DevSpirit.pdf)
+-->
+
+![Inicio](https://user-images.githubusercontent.com/53313625/173904194-0a67fb62-66cf-4980-a32e-145ce961b7a1.png)
+
+![Admisión](https://user-images.githubusercontent.com/53313625/173904786-8abc880a-7055-4ee0-84ee-f9fd7c160ff9.png)
+
+![Crear-Alumno](https://user-images.githubusercontent.com/53313625/173904354-1acd5745-f332-4ed6-b5e1-94f0c7ca2e37.png)
 
 ## Toggl Track 
 
@@ -28,18 +40,6 @@
 <!---
 ![image](https://user-images.githubusercontent.com/53313625/181865185-f38290bf-8488-4ba5-927b-4e2a19c2b447.png)
 -->
-
-## Imagenes
-
-<!---
-[Toggl Track ISI DevSpirit.pdf](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/files/8912260/Toggl.Track.ISI.DevSpirit.pdf)
--->
-
-![Inicio](https://user-images.githubusercontent.com/53313625/173904194-0a67fb62-66cf-4980-a32e-145ce961b7a1.png)
-
-![Admisión](https://user-images.githubusercontent.com/53313625/173904786-8abc880a-7055-4ee0-84ee-f9fd7c160ff9.png)
-
-![Crear-Alumno](https://user-images.githubusercontent.com/53313625/173904354-1acd5745-f332-4ed6-b5e1-94f0c7ca2e37.png)
 
 ## Integrantes
 
