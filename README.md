@@ -1,17 +1,17 @@
-# Sistema Academico DevSpirit
+# Academic System DevSpirit
 
-## Indice
+## Index
 
-- [Proyecto](#proyecto)
-- [Imagenes](#imagenes)
+- [Project](#project)
+- [Images](#images)
 - [Toggl Track](#toggl-track)
-- [Integrantes](#integrantes)
+- [Members](#members)
 
-## Proyecto 
+## Project
 
 ![image](https://user-images.githubusercontent.com/53313625/173902521-1233d26c-ab3a-4445-bfaf-9e53bf2b79de.png)
 
-## Imagenes
+## Images
 
 <!---
 [Toggl Track ISI DevSpirit.pdf](https://github.com/bartoligerman497/SistemaAcademico-DevSpirit/files/8912260/Toggl.Track.ISI.DevSpirit.pdf)
@@ -41,10 +41,11 @@
 ![image](https://user-images.githubusercontent.com/53313625/181865185-f38290bf-8488-4ba5-927b-4e2a19c2b447.png)
 -->
 
-## Integrantes
+## Members
 
 - Emmanuel Ayala - [LinkedIn](https://www.linkedin.com/in/emmanuel-alejandro-ayala/) 
 - Jonathan Merlino - [LinkedIn](https://www.linkedin.com/in/jonathan-merlino/) 
 - German Bartoli - [LinkedIn](https://www.linkedin.com/in/bartoligerman497/) 
 
-> © 2022 DevSpirit - SistemaSanIgnacio. Todos los derechos reservados. Mis commits están en el repositorio de la Organización DevSpirit.
+> © 2022 DevSpirit - SistemaSanIgnacio. All rights reserved. My commits are in the DevSpirit Organization repository.
+
