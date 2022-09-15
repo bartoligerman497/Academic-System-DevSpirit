@@ -74,6 +74,12 @@
 
 ![Profesor-Consultar](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Profesor/Profesor%20Consultar.png)
 
+### Pantalla Completa
+
+![Alumno-Alta-Pantalla-Completa](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alta%20Alumno%20Pantalla%20Completa.png)
+
+![Profesor-Alta-Pantalla-Completa](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Profesor/Alta%20Profesor%20Pantalla%20Completa.png)
+
 ## Toggl Track 
 
 - [Toggl Track Summary](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Toggl%20Track/Toggl_Track_summary_report_2022-01-07_2022-04-14.pdf) - Toggl_Track_summary_report_2022-01-07_2022-04-14.pdf
