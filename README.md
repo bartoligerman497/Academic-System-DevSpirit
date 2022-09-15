@@ -46,11 +46,19 @@
 
 ![Alumno-Documentación](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Documentaci%C3%B3n.png)
 
+![Alumno-Editar-Documentación](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Editar%20Documentaci%C3%B3n.png)
+
 ![Alumno-Pagos](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Pagos.png)
+
+![Alumno-Pagos](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/A%C3%B1adir%20Nuvo%20Pago.png)
 
 ![Alumno-Ficha-Académica](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Ficha%20Acad%C3%A9mica.png)
 
+![Alumno-Ficha-Académica-Cambiar-Estado](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Ficha%20Acad%C3%A9mica%20Cambiar%20Estado.png)
+
 ![Alumno-Calificaciones](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Calificaciones.png)
+
+![Alumno-Añadir-Calificacion](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/A%C3%B1adir%20Calificaci%C3%B3n.png)
 
 ![Gestión-Profesores](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Profesor/Gesti%C3%B3n%20Profesores.png)
 
