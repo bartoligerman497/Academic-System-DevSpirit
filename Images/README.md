@@ -8,7 +8,11 @@
 ![Inicio](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Login.png)
 -->
 
+<!---
 [![Login](https://drive.google.com/uc?export=view&id=1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw)](https://drive.google.com/file/d/1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw/view?usp=sharing)
+-->
+
+![Login](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Login.png)
 
 ![Inicio](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Inicio.png)
 
