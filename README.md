@@ -16,8 +16,6 @@
 
 ![Descripción Proyecto](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Descripci%C3%B3n%20Proyecto.png)
 
-
-
 ## Images
 
 <!---
