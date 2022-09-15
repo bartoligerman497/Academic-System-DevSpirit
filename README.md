@@ -10,9 +10,11 @@
 ## Project
 <!---
 ![Descripción Proyecto](https://user-images.githubusercontent.com/53313625/189393789-e9ea247d-53b5-42ca-958c-cb06badc9de4.png)
--->
 
 [![Descripción Proyecto](https://drive.google.com/uc?export=view&id=1u-rVc21wQ6tXDHoAJeFi-h2Nhfy84iWN)](https://drive.google.com/file/d/1u-rVc21wQ6tXDHoAJeFi-h2Nhfy84iWN/view?usp=sharing)
+-->
+
+![Descripción Proyecto](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Descripci%C3%B3n%20Proyecto.png)
 
 ## Images
 
@@ -22,9 +24,11 @@
 
 <!---
 ![Inicio](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Login.png)
--->
 
 [![Login](https://drive.google.com/uc?export=view&id=1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw)](https://drive.google.com/file/d/1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw/view?usp=sharing)
+-->
+
+![Login](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Login.png)
 
 ![Inicio](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Inicio.png)
 
