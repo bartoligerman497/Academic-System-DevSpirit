@@ -42,7 +42,9 @@
 
 ![Alumno-Alta](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Alta.png)
 
-![Alumno-Datos-Personales](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Datos%20Personales.png)
+![Alumno-Editar](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Editar.png)
+
+![Alumno-Consultar](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Consultar%20Alumno.png)
 
 ![Alumno-Documentación](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Alumno/Alumno%20Documentaci%C3%B3n.png)
 
